@@ -6,7 +6,7 @@
 //  Copyright © 2024 vuhe. All rights reserved.
 //
 
-import Cocoa
+import Foundation
 import Testing
 import Waifu2xCore
 import Waifu2xModels
